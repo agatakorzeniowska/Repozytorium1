@@ -1,5 +1,5 @@
 #include <stdlib.h>
-int main()
+int main(void)
 {
     int n1, n2, i, gcd;
 
