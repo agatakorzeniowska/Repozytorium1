@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
+int main(void)
 {
     double a, b, c, determinant, root1,root2, realPart, imaginaryPart;
 
