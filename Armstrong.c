@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
     int number, originalNumber, remainder, result = 0;
 
